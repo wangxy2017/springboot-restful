@@ -1,3 +1,5 @@
+CREATE DATABASE IF NOT EXISTS spring_restful default character set utf8 COLLATE utf8_general_ci;
+USE spring_restful;
 -- ----------------------------
 -- Table structure for sys_user
 -- ----------------------------
